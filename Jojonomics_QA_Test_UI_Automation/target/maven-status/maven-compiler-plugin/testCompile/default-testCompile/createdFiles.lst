@@ -1,0 +1,4 @@
+step_definitions\Hooks.class
+step_definitions\RunCukesTest.class
+step_definitions\SearchPageSteps.class
+step_definitions\HomePageSteps.class

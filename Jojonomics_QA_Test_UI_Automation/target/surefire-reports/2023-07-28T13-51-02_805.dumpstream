@@ -1,0 +1,5 @@
+# Created at 2023-07-28T13:51:03.060
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Arun\JOJONOMICS TEST\Jojonomics_QA_Test_UI_Automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
